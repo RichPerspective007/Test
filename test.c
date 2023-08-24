@@ -4,5 +4,7 @@ int main(){
     printf("hello shivaditya");
     for(int i=0;i<=5;i++)
     printf("hello Everyone");
+        for(int i=0;i<=5;i++)
+    printf("hello Evey");
     return 0;
 }
